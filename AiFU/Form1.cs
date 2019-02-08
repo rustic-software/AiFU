@@ -39,8 +39,8 @@ namespace AiFU
             switch (command)
             {
                 case "send nudes":
-                    speech.Speak("");
-                    break;
+                    speech.Speak("Maybe later, when i know you better");
+                break;
             }
         }
 
