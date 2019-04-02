@@ -41,6 +41,9 @@ namespace AiFU
                 case "send nudes":
                     speech.Speak("Maybe later, when i know you better");
                 break;
+                case "hello":
+                    speech.Speak("Hi!");
+                break;
             }
         }
 
